@@ -1,0 +1,2 @@
+C:\Users\USUARIO\source\repos\retotecnico cobol\build\retotecnico cobol.pdb
+C:\Users\USUARIO\source\repos\retotecnico cobol\build\retotecnico cobol.exe
